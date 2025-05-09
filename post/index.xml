@@ -13,7 +13,14 @@
         <pubDate>Fri, 09 May 2025 17:40:45 +0800</pubDate>
         
         <guid>https://example.com/p/test/</guid>
-        <description>&lt;p&gt;dasdsadada&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/et21ff/picbed@main/image-2025050917480851726.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
