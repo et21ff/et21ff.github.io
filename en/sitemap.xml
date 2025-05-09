@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://example.com/</loc>
-    <lastmod>2025-05-09T17:40:45+08:00</lastmod>
+    <lastmod>2025-05-09T17:53:36+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -21,7 +21,7 @@
                 />
   </url><url>
     <loc>https://example.com/post/</loc>
-    <lastmod>2025-05-09T17:40:45+08:00</lastmod>
+    <lastmod>2025-05-09T17:53:36+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -39,10 +39,7 @@
                 />
   </url><url>
     <loc>https://example.com/p/test/</loc>
-    <lastmod>2025-05-09T17:40:45+08:00</lastmod>
-  </url><url>
-    <loc>https://example.com/p/test/</loc>
-    <lastmod>2025-05-09T16:55:51+08:00</lastmod>
+    <lastmod>2025-05-09T17:53:36+08:00</lastmod>
   </url><url>
     <loc>https://example.com/p/myfirstblog/</loc>
     <lastmod>2025-05-09T15:57:44+08:00</lastmod>
