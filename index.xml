@@ -17,38 +17,6 @@
 </description>
         </item>
         <item>
-        <title>Test</title>
-        <link>https://example.com/p/test/</link>
-        <pubDate>Fri, 09 May 2025 17:53:36 +0800</pubDate>
-        
-        <guid>https://example.com/p/test/</guid>
-        <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/et21ff/picbed@main/image-2025050917540445726.png&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-	
-&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>MyFirstBlog</title>
-        <link>https://example.com/p/myfirstblog/</link>
-        <pubDate>Fri, 09 May 2025 15:57:44 +0800</pubDate>
-        
-        <guid>https://example.com/p/myfirstblog/</guid>
-        <description>&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/et21ff/picbed@main/image-2025050915595985183.png&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-	
-&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
         <title>Chinese Test</title>
         <link>https://example.com/p/test-chinese/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
